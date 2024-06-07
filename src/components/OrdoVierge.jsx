@@ -1,7 +1,5 @@
-import { View, Text ,StyleSheet, Document ,Page} from "@react-pdf/renderer";
-import React from "react";
+import { View, Text, StyleSheet, Document, Page } from "@react-pdf/renderer";
 
-// Create styles
 const styles = StyleSheet.create({
   page: {
     padding: 20,

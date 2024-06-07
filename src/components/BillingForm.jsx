@@ -8,7 +8,6 @@ import {
   Font,
 } from "@react-pdf/renderer";
 
-// Register a font (optional)
 Font.register({
   family: "Open Sans",
   src: "https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-U1Ug.ttf",
